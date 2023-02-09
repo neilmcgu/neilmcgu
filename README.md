@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Neil McGuire</h1>
 <h3 align="center">Experienced JavaScript Software Developer with a Strong Background in Web Development for Small to Medium Enterprises</h3>
 
-- 🌱 I’m currently learning **Reac & Node**
+- 🌱 I’m currently learning **React & Node**
 
 - 👨‍💻 All of my projects are available at [neilmcguire.info](neilmcguire.info)
 
