@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Neil McGuire</h1>
-<p align="center">I am an Experienced JavaScript Software Developer with a Strong Background in Web Development for Small to Medium Enterprises</p>
+<p align="center">Experienced JavaScript Software Developer with a Strong Background in Web Development for Small to Medium Enterprises</p>
 
-I am Neil McGuire, a highly skilled software engineer with over 5 years of experience in software implementation and freelance web development. My background includes developing and implementing web-based solutions for a variety of clients, ranging from small startups to large corporations.
+I am a highly skilled software engineer with over 5 years of experience in software implementation and freelance web development. My background includes developing and implementing web-based solutions for a variety of clients, ranging from small startups to large corporations.
 
 I am highly proficient in the programming language JavaScript and well-versed in concepts such as Object Oriented Programming. I have a solid understanding of web development best practices and experience in building responsive and user-friendly websites.
 
