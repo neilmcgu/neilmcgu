@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Neil McGuire</h1>
-<p align="center">Experienced JavaScript Software Developer with a Strong Background in Web Development for Small to Medium Enterprises</p>
+<p align="center">Experienced Software Developer with a Background in Web Development for Small to Medium Enterprises</p>
 <h3>I am a Web Developer!</h3>
 I am a highly skilled software engineer with over 5 years of experience in software implementation and freelance web development. My background includes developing and implementing web-based solutions for a variety of clients, ranging from small startups to large corporations.
 <h4>I write web applications</h4>
@@ -8,9 +8,9 @@ I am highly proficient in the programming language JavaScript and well-versed in
 I am a highly organized and detail-oriented individual with excellent problem-solving and communication skills. I am able to work well under pressure and comfortable working in fast-paced environments.
 I am now looking to take my skills to the next level by working for larger enterprises. I am excited to work with a team of highly skilled professionals and to contribute to the development of cutting-edge software solutions.
 
-- 🌱 I’m currently learning **React & Node**
+- 🌱 I’m currently learning **Three JS**
 
-- 👨‍💻 All of my projects are available at [neilmcguire.info](neilmcguire.info)
+- 👨‍💻 A couple of my projects are available at [neilmcguire.info](neilmcguire.info)
 
 - 📫 How to reach me **neil@neilmcguire.info**
 
